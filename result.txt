@@ -1,127 +1,127 @@
-in : count 5
-the : count 17
-early : count 1
-hours : count 1
-of : count 12
-morning : count 1
-village : count 3
-slowly : count 1
-came : count 1
-to : count 4
-life : count 3
-sky : count 1
-painted : count 1
-soft : count 1
-hues : count 1
-pink : count 1
-and : count 8
-orange : count 1
-welcomed : count 1
-first : count 1
-rays : count 1
-sunlight : count 1
-birds : count 1
-chirped : count 1
-cheerfully : count 1
-distance : count 1
-while : count 1
-farmers : count 1
-began : count 1
-their : count 4
-day : count 1
-tending : count 1
-crops : count 1
-animals : count 1
-gentle : count 1
-rustle : count 1
-leaves : count 1
-rhythmic : count 1
-clatter : count 1
-tools : count 1
-formed : count 1
-a : count 1
-symphony : count 1
-rural : count 1
-children : count 1
-prepared : count 1
-for : count 1
-school : count 1
-laughter : count 1
-echoing : count 1
-through : count 1
-narrow : count 1
-dusty : count 1
-streets : count 1
-merchants : count 1
-set : count 1
-up : count 1
-stalls : count 1
-arranging : count 1
-fresh : count 1
-fruits : count 1
-vegetables : count 1
-spices : count 1
-with : count 1
-care : count 1
-scent : count 1
-baked : count 1
-bread : count 1
-drifted : count 1
-from : count 2
-small : count 1
-kitchens : count 1
-where : count 1
-pots : count 1
-simmered : count 1
-tea : count 1
-boiled : count 1
-on : count 3
-open : count 1
-flames : count 1
-as : count 1
-sun : count 1
-rose : count 1
-higher : count 1
-pace : count 1
-quickened : count 1
-bicycles : count 1
-zipped : count 1
-past : count 1
-gravel : count 1
-paths : count 1
-neighbors : count 1
-exchanged : count 1
-greetings : count 1
-over : count 1
-fences : count 2
-was : count 2
-not : count 1
-hurried : count 1
-but : count 1
-it : count 1
-full : count 4
-â : count 1
-routine : count 1
-connection : count 1
-stories : count 1
-passed : count 1
-down : count 1
-one : count 1
-generation : count 1
-next : count 1
-despite : count 1
-changing : count 1
-times : count 1
-people : count 1
-held : count 1
-what : count 1
-mattered : count 1
-most : count 1
-community : count 1
-tradition : count 1
-simple : count 1
-joy : count 1
-being : count 1
-present : count 1
-each : count 1
-moment : count 1
+in : word count 5
+the : word count 17
+early : word count 1
+hours : word count 1
+of : word count 12
+morning : word count 1
+village : word count 3
+slowly : word count 1
+came : word count 1
+to : word count 4
+life : word count 3
+sky : word count 1
+painted : word count 1
+soft : word count 1
+hues : word count 1
+pink : word count 1
+and : word count 8
+orange : word count 1
+welcomed : word count 1
+first : word count 1
+rays : word count 1
+sunlight : word count 1
+birds : word count 1
+chirped : word count 1
+cheerfully : word count 1
+distance : word count 1
+while : word count 1
+farmers : word count 1
+began : word count 1
+their : word count 4
+day : word count 1
+tending : word count 1
+crops : word count 1
+animals : word count 1
+gentle : word count 1
+rustle : word count 1
+leaves : word count 1
+rhythmic : word count 1
+clatter : word count 1
+tools : word count 1
+formed : word count 1
+a : word count 1
+symphony : word count 1
+rural : word count 1
+children : word count 1
+prepared : word count 1
+for : word count 1
+school : word count 1
+laughter : word count 1
+echoing : word count 1
+through : word count 1
+narrow : word count 1
+dusty : word count 1
+streets : word count 1
+merchants : word count 1
+set : word count 1
+up : word count 1
+stalls : word count 1
+arranging : word count 1
+fresh : word count 1
+fruits : word count 1
+vegetables : word count 1
+spices : word count 1
+with : word count 1
+care : word count 1
+scent : word count 1
+baked : word count 1
+bread : word count 1
+drifted : word count 1
+from : word count 2
+small : word count 1
+kitchens : word count 1
+where : word count 1
+pots : word count 1
+simmered : word count 1
+tea : word count 1
+boiled : word count 1
+on : word count 3
+open : word count 1
+flames : word count 1
+as : word count 1
+sun : word count 1
+rose : word count 1
+higher : word count 1
+pace : word count 1
+quickened : word count 1
+bicycles : word count 1
+zipped : word count 1
+past : word count 1
+gravel : word count 1
+paths : word count 1
+neighbors : word count 1
+exchanged : word count 1
+greetings : word count 1
+over : word count 1
+fences : word count 2
+was : word count 2
+not : word count 1
+hurried : word count 1
+but : word count 1
+it : word count 1
+full : word count 4
+â : word count 1
+routine : word count 1
+connection : word count 1
+stories : word count 1
+passed : word count 1
+down : word count 1
+one : word count 1
+generation : word count 1
+next : word count 1
+despite : word count 1
+changing : word count 1
+times : word count 1
+people : word count 1
+held : word count 1
+what : word count 1
+mattered : word count 1
+most : word count 1
+community : word count 1
+tradition : word count 1
+simple : word count 1
+joy : word count 1
+being : word count 1
+present : word count 1
+each : word count 1
+moment : word count 1

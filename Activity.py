@@ -1,13 +1,14 @@
 import re
 import argparse
 
+#count number of each words in a file and save in another file
 def analyse_data(input_file, output_file):
     
     with open(input_file, 'r') as f:
         text = f.read()
 
-    words = re.findall(r'\b\w+\b', text.lower())
-    word_counts = {}
+    words = re.findall(r'\b\w+\b', text.lower()) #return a list of words
+    word_counts = {}    #dict to store words and count value pairs
 
     for word in words:
         word_counts[word] = word_counts.get(word, 0) + 1
