@@ -18,4 +18,14 @@ html_content = """
     </div>
 """
 
-soup = BeautifulSoup()
+soup = BeautifulSoup(html_content, 'html.parser')
+
+product_div = soup.select_one('.product')
+product_name_tag = product_div.select_one('h1')
+product_name = product_name_tag.get_text()
+
+price_tag = product_div.select_one('.price')
+price = price_tag.get_text()
+
+print(product_name)
+print(price)
