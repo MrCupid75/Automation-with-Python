@@ -53,6 +53,6 @@ def check_new_message(client_email, client_name):
         print("Error fetching emails", e)
 
 
-# send_confirmation_email(receiver_email, "Beast")
+send_confirmation_email(receiver_email, "Beast")
 
-check_new_message(sender_email, "Beast")
+# check_new_message(sender_email, "Beast")
