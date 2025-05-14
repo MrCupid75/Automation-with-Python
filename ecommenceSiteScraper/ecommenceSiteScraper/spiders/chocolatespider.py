@@ -13,5 +13,5 @@ class ChocolatespiderSpider(scrapy.Spider):
             yield {
                 'name' : product.css('a.product-item-meta__title::text').get(),
                 'price': product.css('span.price').get().replace('<span class="price">\n              <span class="visually-hidden">Sale price</span>','').replace('</span>',''),
-                'url': product.css('div.product-item-meta a::text').get()
+                'url': product.css('div.product-item-meta a').attrib['href']
             }
